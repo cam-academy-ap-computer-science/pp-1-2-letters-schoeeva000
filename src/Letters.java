@@ -19,6 +19,8 @@ public class Letters {
 		common();
 		System.out.println("I can't believe it's been so long since I have been out to see you");
 		System.out.println("for Christmas! I am excited to go sledding with you down the massive");
+		System.out.println("sledding hill by your house.\n");
+		System.out.println("See you soon,\n\nEvan");
 		
 	}
 	
